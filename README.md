@@ -62,23 +62,6 @@ I learned how to use the after pseudo-element to add the icon view image in CSS 
 }
 ```
 
-### Useful resources
-
-- [Nested border radius](https://www.30secondsofcode.org/css/s/nested-border-radius/) - This article helped me with applying the border radius on the image.
-
-## Author
-
-<p align="left">
-  <a href="https://www.frontendmentor.io/profile/bccpadge">
-    <img src="https://img.shields.io/badge/FrontendMentor-57b1e6?style=for-the-badge&logo=frontendmentor&logoColor=white">
-  </a>
-  <a href="https://github.com/bccpadge">
-    <img src="https://img.shields.io/badge/Github-9757e6?style=for-the-badge&logo=github&logoColor=white">
- </a>
-  <a href="https://www.linkedin.com/in/rebecca-padgett23">
-    <img src="https://img.shields.io/badge/Linkedin-004182?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
 
 ## Acknowledgments
 
